@@ -35,7 +35,7 @@
 	</li>
 </ul>
 
-<h3><img alt="resources/Screen%20Shot%202021-02-02%20at%203.32.28%20PM-92b3378a-0e7c-4f4b-8edf-cebb1ed2f38e.png" src="https://anypoint.mulesoft.com/exchange/8b3d9c0e-0dc0-4e02-8848-d6fc29ba4981/telegram-messenger-connector/1.0.2/draft/resources/Screen%20Shot%202021-02-02%20at%203.32.28%20PM-92b3378a-0e7c-4f4b-8edf-cebb1ed2f38e.png" /></h3>
+<h3><img alt="https://github.com/SynergySoftCloud/telegram-connector-documentation/blob/master/images/telegramImage.png" src="https://github.com/SynergySoftCloud/telegram-connector-documentation/blob/master/images/telegramImage.png" /></h3>
 
 <hr />
 <h2 style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif">Bot API</span></h2>

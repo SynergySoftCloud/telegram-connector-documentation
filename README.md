@@ -48,7 +48,8 @@
 <h2 style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif">Additional References</span></h2>
 
 <ul>
-	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://docs.google.com/document/d/1bG2AgXE4lK3BAVb7RNNhLGqYVo2AgiJkaNKfwf6tV6s/edit" rel="noopener noreferrer">User Guide</a></span></span></li>
+	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://github.com/SynergySoftCloud/telegram-connector-documentation/blob/master/user.manual.md" rel="noopener noreferrer">User Guide</a></span></span></li>
+	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://github.com/SynergySoftCloud/telegram-connector-documentation/blob/master/user.manual.md" rel="noopener noreferrer">Technical reference</a></span></span></li>	
 	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://core.telegram.org/bots" rel="noopener noreferrer">Learn more about Bot API</a></span></span></li>
 	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://telegram.org/" rel="noopener noreferrer">Telegram messenger site</a></span></span></li>
 	<li style="text-align:justify"><span style="font-family:Arial,Helvetica,sans-serif"><span style="font-size:14px"><a href="https://www.mulesoft.com/legal/versioning-back-support-policy#anypoint-connectors" rel="noopener noreferrer">MuleSoft&#39;s Connector Support Policy</a></span></span></li>
